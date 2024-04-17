@@ -1,0 +1,1 @@
+.gallery{display:grid;gap:20px}.gallery img{width:100%;height:auto;border:5px solid #efab55;border-radius:5px;box-shadow:0 0 5px #00000080}@media screen and (min-width: 768px){.gallery{grid-template-columns:repeat(3,1fr)}}@media screen and (max-width: 767px){.gallery{grid-template-columns:repeat(1,1fr)}}h2{text-align:center;color:#efab55;font-size:2em}
